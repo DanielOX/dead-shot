@@ -22,7 +22,22 @@
 .App-link {
   color: #61dafb;
 }
-
+input {
+  border-radius: 0px !important;
+}
+.padder {
+  margin: 0 auto;
+  width: 100%;
+}
+.padder img {
+  width: auto;
+  height: 60px;
+  object-fit: cover;
+  display: block;
+}
+.card {
+  border-radius: 0px !important;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
