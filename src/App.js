@@ -5,7 +5,7 @@ import ServerVulnerability from "./Components/ServerVulnerability";
 import WebTechnologies from "./Components/WebTechnologies";
 
 import "./App.css";
-import DeadShotLogo from "./logo.png";
+import DeadShotLogo from "./logo.svg";
 const width = {
   container: {
     width: "70%",
